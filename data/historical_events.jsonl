@@ -1,0 +1,6 @@
+{"event_id":"hist-001","schema_version":1,"event_type":"play","occurred_at":"2026-10-10T18:00:00Z","session_id":"hist-session-001","title_id":"title-northstar","region":"US","device_type":"tv","duration_seconds":180}
+{"event_id":"hist-002","schema_version":1,"event_type":"buffer","occurred_at":"2026-10-10T18:03:00Z","session_id":"hist-session-001","title_id":"title-northstar","region":"US","device_type":"tv","duration_seconds":15}
+{"event_id":"hist-003","schema_version":1,"event_type":"complete","occurred_at":"2026-10-10T18:10:00Z","session_id":"hist-session-001","title_id":"title-northstar","region":"US","device_type":"tv","duration_seconds":0}
+{"event_id":"hist-004","schema_version":1,"event_type":"play","occurred_at":"2026-10-10T19:00:00Z","session_id":"hist-session-002","title_id":"title-afterglow","region":"US","device_type":"mobile","duration_seconds":75}
+{"event_id":"hist-005","schema_version":1,"event_type":"buffer","occurred_at":"2026-10-10T19:02:00Z","session_id":"hist-session-002","title_id":"title-afterglow","region":"US","device_type":"mobile","duration_seconds":25}
+{"event_id":"hist-006","schema_version":1,"event_type":"play","occurred_at":"2026-10-11T20:00:00Z","session_id":"hist-session-003","title_id":"title-northstar","region":"US","device_type":"web","duration_seconds":45}
